@@ -2,7 +2,7 @@ body {
   font-family: 'Lato', georgia;
   font-size: 25px;
   color: rgba(255, 255, 255, 1);
-  background-color: rgba(236, 181, 62, 0.95);
+  background-color: rgba(236 , 181, 62, 0.95);
   text-align: center;
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
@@ -39,7 +39,7 @@ input {
 textarea {
   text-align: left;
   /* overflow:hidden; */
-  
+
   resize: none;
   width: 90%;
   border-color: rgba(255, 255, 255, 0)
@@ -90,7 +90,7 @@ input:required:invalid {
 
 :-moz-placeholder {
   /* Firefox 18- */
-  
+
   text-align: center;
   color: rgba(255, 255, 255, 0.4);
   font-style: italic;
@@ -99,7 +99,7 @@ input:required:invalid {
 
 ::-moz-placeholder {
   /* Firefox 19+ */
-  
+
   text-align: center;
   color: rgba(255, 255, 255, 0.4);
   font-style: italic;
@@ -150,7 +150,7 @@ small {
   text-align: center;
   display: block;
   margin-top: 7%;
-  
+
 }
 
 .website a {
