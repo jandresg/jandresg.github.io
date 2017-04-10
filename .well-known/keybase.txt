@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jandresg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jandresg.github.io
+  * I am jandresg (https://keybase.io/jandresg) on keybase.
+  * I have a public key ASDD2UzQHKReySXzoyiGscCvvfYJ_pAY3I7-dmPmOpeyEwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c3d94cd01ca45ec925f3a32886b1c0afbdf609fe9018dc8efe7663e63a97b2130a",
+            "host": "keybase.io",
+            "kid": "0120c3d94cd01ca45ec925f3a32886b1c0afbdf609fe9018dc8efe7663e63a97b2130a",
+            "uid": "9cb9fd003fd3915f059ed28419bcef19",
+            "username": "jandresg"
+        },
+        "service": {
+            "hostname": "jandresg.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491846745,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491846720,
+        "hash": "dbbffff34cf034ab116a3e99893ae6de518664594fb9af862c841c2992c5ab1c5eb2f01c129724af8a2106af36b6642087d391c6ab1e26a9a59c302c9865f4a9",
+        "seqno": 1010598
+    },
+    "prev": "eb28132401dd21aef0f22e660f58ccb9c262864613c08af04b8c2b845ee37ab0",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw9lM0BykXskl86MohrHAr732Cf6QGNyO/nZj5jqXshMKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzNkOTRjZDAxY2E0NWVjOTI1ZjNhMzI4ODZiMWMwYWZiZGY2MDlmZTkwMThkYzhlZmU3NjYzZTYzYTk3YjIxMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzNkOTRjZDAxY2E0NWVjOTI1ZjNhMzI4ODZiMWMwYWZiZGY2MDlmZTkwMThkYzhlZmU3NjYzZTYzYTk3YjIxMzBhIiwidWlkIjoiOWNiOWZkMDAzZmQzOTE1ZjA1OWVkMjg0MTliY2VmMTkiLCJ1c2VybmFtZSI6ImphbmRyZXNnIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqYW5kcmVzZy5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTg0Njc0NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxODQ2NzIwLCJoYXNoIjoiZGJiZmZmZjM0Y2YwMzRhYjExNmEzZTk5ODkzYWU2ZGU1MTg2NjQ1OTRmYjlhZjg2MmM4NDFjMjk5MmM1YWIxYzVlYjJmMDFjMTI5NzI0YWY4YTIxMDZhZjM2YjY2NDIwODdkMzkxYzZhYjFlMjZhOWE1OWMzMDJjOTg2NWY0YTkiLCJzZXFubyI6MTAxMDU5OH0sInByZXYiOiJlYjI4MTMyNDAxZGQyMWFlZjBmMjJlNjYwZjU4Y2NiOWMyNjI4NjQ2MTNjMDhhZjA0YjhjMmI4NDVlZTM3YWIwIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAGQMYcV0ed64cxw1c5rPk8vjRevzoBSuUc/t9ytKGJAMbknjT7gSBfZjvaN37jkMlE0vEwu/uDKyBfv3wG+jDBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPvEYaSlaFreEufJKED4VQIPaGJ9cHwh580fTfpVdp2so3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jandresg
+
+==================================================================
