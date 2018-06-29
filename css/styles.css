@@ -77,7 +77,7 @@ Primary use:  Vcard / Personal / CV / Resume / Portfolio
 body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: subpixel-antialiased;
-  background: url('../img/bg1.png') no-repeat center center fixed;
+  background: url('https://raw.githubusercontent.com/jandresg/jandresg.github.io/master/img/bg1.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
